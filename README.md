@@ -108,3 +108,7 @@ Append the **_bonus.[c\h]** suffix to the bonus part files. <br>It means that, i
 * get_next_line_utils_bonus.c
 
 ## :heavy_exclamation_mark: The bonus part will only be assessed if the mandatory part is **PERFECT**. <br>Perfect means the mandatory part has been integrally done and works without malfunctioning. <br>If you have not passed **ALL** the mandatory requirements, your bonus part will not be evaluated at all. :heavy_exclamation_mark:
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/get_next_line/blob/main/README.md#-beware-">back to top</a>
+</p>
