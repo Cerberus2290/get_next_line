@@ -3,7 +3,7 @@
 ## If you are a 42 Student, do not copy/paste this project, it will be considered cheating and you will be grated -42.
 
 # 42 Wolfsburg Cursus 
-## get_next_line
+## :computer: get_next_line
 ## Reading a line from a fd is way too tedious
 
 # Contents
